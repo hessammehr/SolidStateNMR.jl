@@ -1,4 +1,7 @@
-# SolidStateNMR
+# Solid State NMR in Julia
+
+Currently only handles the calculation of MAS side-band intensities
+using J. Herzfeld and A. E. Berger, *J. Chem. Phys.* **1980**, 73, 6021–6030.
 
 [![Build Status](https://travis-ci.org/hessammehr/SolidStateNMR.jl.svg?branch=master)](https://travis-ci.org/hessammehr/SolidStateNMR.jl)
 
